@@ -1,0 +1,20 @@
+﻿Keyboard simulator
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\aleks\Desktop\Keyboard simulator\obj\Debug\net6.0-windows\
+Keyboard_simulator
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\aleks\Desktop\Keyboard simulator\App.xaml
+7518478274
+
+11-1554894331
+194183970531
+KeyboardSimulator.xaml;MainWindow.xaml;Resources HAML\Buttons\InformationPanelButtons.xaml;Resources HAML\KeyboardKeyStyle.xaml;Resources HAML\MenuButtons.xaml;Resources HAML\Theme\Dark.xaml;Resources HAML\Theme\Light.xaml;
+
+False
+
